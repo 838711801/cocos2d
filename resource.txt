@@ -1,0 +1,2 @@
+//微信开放平台
+http://mp.weixin.qq.com/wiki/home/index.html
