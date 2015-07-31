@@ -1,2 +1,5 @@
 //微信开放平台
 http://mp.weixin.qq.com/wiki/home/index.html
+
+//cocos2d-js 打包方法
+cocos compile -p web -m release
